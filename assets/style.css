@@ -1,0 +1,1168 @@
+body{
+	background-color:#ffffff;
+	font-size:.8em;
+	font-family: 'Droid Sans',  Helvetica, Arial, sans serif;
+}
+
+a{
+	text-decoration:none;
+	color:#ca5151;
+}
+
+a:hover{
+	text-decoration:none;
+	color:#ca5151;
+}
+
+h1{
+	font-family: 'Bryant Reg', 'Droid Sans', Helvetica, Arial, sans serif;
+	color:#4c4c4c;
+	font-size: 24px;
+	margin: 0px 0px -5px 0px;
+	line-height:1.4em;
+}
+h1 a{
+	color:#4c4c4c;
+}
+h2{
+	font-family:'Droid Sans', Helvetica, Arial, sans serif;
+	color:#4c4c4c;
+	font-size:16px;
+	line-height:1.7em;
+}
+
+h3{
+	font-family: 'Bryant Med', 'Droid Sans', Helvetica, Arial, sans serif;
+	color:#4c4c4c;
+}
+
+h4{
+	font-family:'Droid Sans', Helvetica, Arial, sans serif;
+	color:#ca5151;
+	font-weight:bold;
+	font-size: 12px;
+	margin: 8px 0px 0px 0px;
+	line-height:1.7em;
+}
+
+/**h4 a{
+	color:#ca5151;
+}**/
+
+h5{
+	font-family:'Droid Sans', Helvetica, Arial, sans serif;
+	color:#4c4c4c;
+	font-weight:bold;
+	font-size: 12px;
+	margin: 8px 0px 0px 0px;
+	line-height:1.7em;
+}
+
+hr{
+	height:1px;
+	margin: 10px 0px 15px 0px;
+	border-top: dotted 1px #bbbbbb;
+	background-color:#ffffff;
+}
+
+/**for future use, paste <div class=\"new\"></div> before <a><img></a>
+.new{
+	background: url('../images/new.png');
+	height:97px;
+	width:97px;
+	position:relative;
+	top: 95px;
+	left:7px;
+	margin: -90px -100px 0px 20px;
+}
+**/
+
+/***HEAD***/
+
+#head{
+	height:124px;
+	margin:10px 0px -20px 0px;
+}
+
+#head2{
+	height:99px;
+	background:url('../images/header.png');
+	background-repeat:no-repeat;
+	background-position:center;
+	margin: 0px 0px 0px 224px;
+	width: 493px;
+	color:#ffffff;
+}
+
+#head2 a{
+	text-indent:-9999px;
+	width: 493px;
+	height: 99px;
+	display:block;
+}
+
+.fontWeight{
+	font-weight: normal;
+}
+
+#buy{
+	background:url('../images/buy.png');
+	background-repeat: no-repeat;
+	height:82px;
+	width:82px;
+	margin: -65px 0px 0px 138px;
+	float: left;
+}
+
+#buy a{
+	text-indent:-9999px;
+	height:74px;
+	width:76px;
+	display:block;
+}
+
+/***BUY***/
+#buyButton{
+	margin: 0px auto;
+}
+
+#previewContent{
+	margin: 0px 0px 0px 150px;
+}
+
+#preview{
+	margin: 10px 0px 30px 0px;
+}
+
+#priceLabel{
+	color:#888;
+	font-size:12px;
+}
+
+#price{
+	font-size:14px;
+	color:#4c4c4c;
+	font-weight:bold;
+}
+
+#priceInfo{
+	margin: 5px 0px 0px 170px;
+	width:200px;
+}
+
+#priceInfo hr{
+	margin-bottom: 50px;
+}
+
+/***MENU***/
+
+.nav{
+	font-family: 'Bryant Med', 'Droid Sans', Helvetica, Arial, sans serif;
+	font-size: 16px;
+	width: 780px;
+	height: 46px;
+	margin: 0px auto;
+	padding: 12px 0px 0px 0px;
+	margin-bottom: 30px;
+	background: url('../images/menuBg.gif');
+	background-repeat: repeat-x;
+}
+
+.nav li{
+	list-style:none;
+	margin: 0px 15px 0px 15px;
+}
+
+ul.nav li{
+	display:inline;
+}
+
+.nav li a{
+	color:#4b4b4b;
+}
+
+.nav li a:hover{
+	color: #ca5151;
+}
+
+.nav li a.active{
+	color: #ca5151;
+}
+
+/***CONTENT***/
+
+#content{
+	padding:15px;
+	min-height:500px;
+}
+
+#content p{
+	line-height:1.4em;
+	font-size:12px;
+	margin: 12px 0px 0px 0px;
+}
+
+.eighteen.columns{
+	margin: 0px 0px 0px 0px;
+}
+
+/***FOOT***/
+
+#footer{
+	margin: 10px 0px 5px 0px;
+	padding: 15px 0px 0px 0px;
+	text-align:center;
+	border-top: dotted 1px #bbbbbb;
+	background-color:#ffffff;
+	color:#666666;
+	font-size:12px;
+}
+
+#share{
+	color:#ca5151;
+}
+
+/***text view***/
+/*.textInfo{
+	width:400px;
+	margin: 90px 0px 0px 200px;
+	font-size:12px;
+	line-height:1em;
+}*/
+.singleContent div.anythingSlider{
+	margin: 0px 0px 0px -50px;
+}
+.singleContent div.anythingSlider .anythingWindow {
+	overflow: hidden;
+	position: relative;
+	width: 780px;
+	height: 460px;
+}
+.singleContent #slider {
+	width: 800px;
+	height: 460px;
+	list-style: none;
+	/* Prevent FOUC (see FAQ page) and keep things readable if javascript is disabled */
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+/*.textInfo h1{
+	font-family: 'Bryant Reg', 'Droid Sans', Helvetica, Arial, sans serif;
+	color:#4c4c4c;
+	font-size: 20px;
+	margin: 0px 0px -5px 0px;
+	line-height:1.4em;
+}*/
+
+/***minimal view***/
+.minimalItem{
+	margin: 0px 0px 0px 230px;
+}
+
+.minimalItem img{
+	background: url('../images/axiomFrame.gif') no-repeat right bottom;
+	padding: 10px 10px 12px 10px;
+	margin: 0px 0px 0px 0px;
+}
+
+.minimalItem p{
+	font-family: 'Bryant Reg', 'Droid Sans', Helvetica, Arial, sans serif;
+	/*color:#4c4c4c;*/
+	color:#848484;
+	font-size: 14px;
+	margin: 0px 0px -5px 0px;
+	line-height:2em;
+}
+.minimContent div.anythingSlider{
+	margin: 0px 0px 0px -50px;
+}
+.minimContent div.anythingSlider .anythingWindow {
+	height: 510px;
+}
+.minimContent #slider {
+	height: 510px;
+}
+/***QUOTES and AXIOMS***/
+.axiomItem{
+	width:800px;
+	margin: 0px 0px 0px 30px;
+}
+
+.axiomItem img{
+	background: url('../images/axiomFrame.gif') no-repeat right bottom;
+	padding: 10px 10px 12px 10px;
+	margin: 0px 0px 0px 30px;
+}
+
+.axiomInfo{
+	width:350px;
+	float:right;
+	margin: 0px 85px 0px 0px;
+	font-size:12px;
+	line-height:1em;
+}
+
+.quoteFlag, .axiomFlag{
+	height:24px;
+	width:125px;
+	margin: 5px 0px 10px 0px;
+}
+.quoteFlag{
+	background: url('../images/quoteLabel.gif') no-repeat left center;
+}
+.axiomFlag{
+	background: url('../images/axiomLabel.gif') no-repeat left center;
+}
+.homeContent div.anythingSlider .anythingWindow {
+	height: 570px;
+}
+.homeContent #slider {
+	height: 570px;
+}
+/***GRID***/
+.gridContent{
+	margin: -15px 0px 20px 34px;
+}
+
+.slide{
+	width:800px;
+}
+
+.gridItem ul{
+	width:770px;
+	margin: 0 auto;
+}
+
+.gridItem ul li{
+	display:inline;
+}
+
+.gridItem img{
+	background: url('../images/axiomThumbFrame.gif') no-repeat right bottom;
+	padding: 10px 10px 10px 10px;
+}
+
+/***ICONS***/
+
+#viewSwitcher{
+	float: right;
+}
+
+ul#views{
+	list-style:none;
+	/*margin: 0px 380px 0px 0px; spacing for when text and minim views are included*/
+	margin: 0px 420px 0px 0px;
+}
+
+#views li{
+	overflow:hidden; 
+	text-indent:-9999px; 
+	display:inline; 
+	float:left;
+	margin-right:10px;
+}
+
+#views li a{
+	background:url('../images/views2.gif') no-repeat; 
+	width:100%; 
+	height:100%; 
+	display:block;
+}
+/* Text Button - uncomment when adding text view again*/  
+/*#views li#text{width:19px; height:19px;}  
+#views li#text a{background-position:0 0;}  
+#views li#text a:hover{background-position:0 -19px;}  
+#views li#text a.active{background-position:0 -19px;}*/
+ 
+/* Grid Button */  
+#views li#grid{width:17px; height:19px;}  
+#views li#grid a{background-position:-39px 0;}  
+#views li#grid a:hover{background-position:-39px -19px;}  
+#views li#grid a.active{background-position:-39px -19px;}  
+  
+/* Multi Button */  
+#views li#multi{width:37px; height:19px;}  
+#views li#multi a{background-position:-78px 0;}  
+#views li#multi a:hover{background-position:-78px -19px;}  
+#views li#multi a.active{background-position:-78px -19px;}  
+
+/*Single Button - comment when adding minim view again*/ 
+#views li#single{width:12px; height:19px;}  
+#views li#single a{background-position:-172px 0;}  
+#views li#single a:hover{background-position:-172px -19px;}  
+#views li#single a.active{background-position:-172px -19px;} 
+ 
+/* Single Button - uncomment when adding minim view again*/  
+/*#views li#single{width:20px; height:19px;}  
+#views li#single a{background-position:-133px 0;}  
+#views li#single a:hover{background-position:-133px -19px;}  
+#views li#single a.active{background-position:-133px -19px;}*/
+
+/* Minimal Button - uncomment when adding minim view again */  
+/*#views li#minim{width:12px; height:19px;}  
+#views li#minim a{background-position:-172px 0;}  
+#views li#minim a:hover{background-position:-172px -19px;}  
+#views li#minim a.active{background-position:-172px -19px;}*/
+
+/***AUTHOR***/
+
+.authorItem{
+	width:800px;
+	margin: 0px 0px 0px 30px;
+}
+
+.authorItem img.authorPortrait{
+	background: url('../images/axiomFrame.gif') no-repeat right bottom;
+	padding: 10px 10px 12px 10px;
+	margin: 0px 0px 0px 30px;
+}
+
+.authorInfo{
+	width:350px;
+	float:right;
+	margin: 0px 85px 0px 0px;
+	line-height:1em;
+	font-size:12px;
+}
+
+.quotedCards ul{
+	margin: 5px 0px 0px 35px;
+}
+
+.quotedCards ul li{
+	display:inline;
+	padding: 0px 5px 0px 5px;
+}
+/***AUTHORS***/
+.authorSingle div.anythingSlider{
+	margin: 0px 0px 0px -35px;
+}
+.authorSingle div.anythingSlider .anythingWindow {
+	height: 570px;
+}
+.authorSingle #slider {
+	height: 570px;
+}
+
+.authorSingle #slider {
+	height: 570px;
+}
+p.authorTitle{
+	font-family: 'Bryant Reg', 'Droid Sans', Helvetica, Arial, sans serif;
+	/*color:#4c4c4c;*/
+	color:#848484;
+	font-size: 14px;
+	margin: 0px 0px -5px 0px;
+	line-height:1.4em;
+}
+/***ABOUT***/
+#missionette{
+	width:390px;
+	margin: 0px 0px 0px 95px
+}
+
+#missionette p{
+	margin-bottom: 20px;
+	line-height:1.4em;
+}
+
+#contributors{
+	width:300px;
+	margin: 0px 0px 0px 40px;
+	line-height:1.4em;
+}
+
+#thanks{
+	line-height:1.6em;
+}
+#thanks2{
+	margin: 20px 0px 0px 0px;
+}
+#thanks2 ul li{
+	margin: 2px 0px 0px 0px;
+}
+#thanks2 ul{
+	margin-right: 10px;
+}
+
+.person{
+	color:#000000;
+	font-size:14px;
+	line-height:1.7em;
+}
+
+#ulLeft{
+	margin: 1em -1em 0em 0em;
+}
+
+#ulRight{
+	margin: -12.5em 3em 0em 0em;
+	float:right;
+}
+
+/***FEEDBACK***/
+form{
+	width:410px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 135px;
+}
+
+form ol{
+	list-style:none;
+	margin: -5px 20px 0px 0px;
+}
+
+input[type="text"], textarea{
+	background-color:#f6f5f4;
+	width: 400px;
+	padding:10px;
+	margin: 0px 0px 8px 0px;
+	opacity:0.6;
+}
+
+input[type="email"]{
+	background-color:#f6f5f4;
+	width: 400px;
+	padding:10px;
+	margin: 0px 0px 8px 0px;
+	opacity:0.6;
+}
+
+input[type="text"]:focus{
+	opacity:1.0;
+}
+input[type="email"]:focus{
+	opacity:1.0;
+}
+
+input[type="submit"]{
+	width: 120px;
+	height:41px;
+	padding: 0px 0px 3px 0px;
+	margin: 0px 0px 0px 290px;
+}
+
+textarea{
+	margin: 0px 0px 10px 0px;
+	line-height: 1.5em;
+	opacity:0.6;
+}
+
+textarea:focus{
+	opacity:1.0;
+}
+
+#getInTouch{
+	margin: 0px 0px 0px 30px;
+}
+
+#getInTouch h2{
+	margin: 0px 0px -10px 0px;
+}
+
+#getInTouch p{
+	font-size: 14px;
+	line-height: 1.4em;
+	color:#000;
+	margin: 10px 0px 0px 0px;
+}
+
+#getInTouch a{
+	color:#ca5151;
+}
+
+.error{
+	font-weight:bold;
+	color:#ca5151;
+	margin: 0px 0px 20px 0px;
+}
+
+.confirm{
+	margin: 0px 0px 20px 0px;
+}
+
+
+/* #Tablet (Portrait)
+================================================== */
+
+    /* Note: Design for a width of 768px */
+
+    @media only screen and (min-width: 768px) and (max-width: 959px) {
+		/* MENU */
+		.nav{
+			font-family: 'Bryant Med', 'Droid Sans', Helvetica, Arial, sans serif;
+			font-size: 18px;
+			width: 780px;
+			height: 46px;
+			margin: -20px 0px 0px -16px;
+			padding: 12px 0px 0px 0px;
+			margin-bottom: 30px;
+			background: url('../images/menuBg.gif');
+			background-repeat: repeat-x;
+		}
+		.nav li{
+			list-style:none;
+			margin: 0px 15px 0px 15px;
+		}
+				
+		/* HEAD */
+		#head{
+			height:124px;
+			margin:10px 0px 0px -96px;
+		}
+		
+		/* VIEWSWITCH */
+		ul#views {
+			margin: 0px 320px 0px 0px;
+		}
+		
+		/* CONTENT */
+		#content{
+			min-height:300px;
+		}
+		.singleContent div.anythingSlider{
+			margin: 0px 0px 0px -22px;
+			width: 553px !important;
+			min-height:380px !important;
+		}
+		.singleContent div.anythingSlider .anythingWindow {
+			height: 480px;
+		}
+		.singleContent .anythingWindow{
+			margin: 0px 20px 0px -25px;
+			width:550px !important;
+		}
+		.axiomItem{
+			width:350px;
+			margin: 0px 0px 0px 5px;
+		}
+		.axiomItem img{
+			height:360px;
+			width:240px;
+			padding: 10px 10px 10px 10px;
+			background: url('../images/axiomFrame2.gif') no-repeat right bottom;
+			margin: 0px 0px 0px 19px;
+		}
+		.axiomInfo{
+			width:250px;
+			float:right;
+			margin: 0px 255px 0px 0px;
+			font-size:12px;
+			line-height:1em;
+		}
+		.panel{
+			width:350px;
+		}
+		
+		/* AUTHOR */
+		.authorSingle div.anythingSlider{
+			margin: 0px 0px 0px -8px;
+			width: 553px !important;
+			min-height:380px !important;
+		}
+		.authorSingle div.anythingSlider .anythingWindow {
+			height: 550px;	
+		}
+		.authorSingle .anythingWindow{
+			margin: 0px 20px 0px -25px;
+			width:550px !important;
+		}
+		.authorItem{
+			width:350px;
+			margin: 0px 0px 0px -5px;
+		}
+		.authorItem .authorPortrait{
+			height:360px;
+			width:240px;
+			padding: 10px 10px 10px 10px;
+			background: url('../images/axiomFrame2.gif') no-repeat right bottom;
+			margin: 0px 0px 0px 19px;
+		}
+		.axiomInfo{
+			width:250px;
+			float:right;
+			margin: 0px 255px 0px 0px;
+			font-size:12px;
+			line-height:1em;
+		}
+		
+		/* GRID 4x1 */
+		.gridContent{
+			margin: 0px 0px 20px 5px;
+		}
+		/* GRID 4x2 */
+		 .slideContent div.anythingSlider{
+			margin: 0px 0px 0px -12px;
+			width: 553px !important;
+			height:380px !important;
+		 }
+		 .slideContent .anythingWindow{
+			margin: -25px 20px 0px -25px;
+			width:553px !important;
+			height:380px !important;
+		}
+		.slide{
+			width:553px;
+			margin: 0px 0px 0px 10px;
+		}
+		.slideContent .slide img{
+			height:173px;
+			width:115px;
+			padding: 5px 9px 9px 5px;
+			border-top:solid 1px #e8e8e8;
+			border-left:solid 1px #e8e8e8;
+		}
+		#missionette{
+			width:350px;
+			margin: -20px 0px 0px 50px;
+		}
+		#contributors{
+			width:250px;
+			margin: -20px 0px 0px 40px;
+		}
+		h1{
+			font-size:22px;
+		}
+		form{
+			padding: 0px 0px 0px 35px;
+		}
+    }
+
+	
+	
+
+/*  #Mobile (Portrait)
+================================================== */
+
+    /* Note: Design for a width of 320px */
+
+    @media only screen and (max-width: 767px) {		
+		/* MENU */
+		.nav {
+			font-size: 11px;
+			width: 300px;
+			height:10px;
+			background: none;
+			margin: 5px 0px 0px 0px;
+		}
+		ul.nav{
+			margin: 10px 0px 20px 0px;
+			padding: 5px 0px 13px 2px;
+		}
+		.nav li{
+			list-style:none;
+			margin: 0px 4px 0px 4px;
+		}
+		
+		/* HEAD */
+		#head2{
+			height:49px;
+			background:url('../images/header_mobo2.png');
+			margin: 0px 0px 0px 135px;
+			width: 257px;
+		}
+		#head{
+			height:50px;
+			margin:10px 0px 0px -92px;
+			width: 257px;
+		}
+		#head2 a{
+			width: 257px;
+		}
+		#buy{
+			background:url('../images/buy_mobo2.png');
+			height:40px;
+			width:39px;
+			margin: -33px 0px 0px 95px;
+		}
+		/* VIEWSWITCH */
+		ul#views {
+			margin: 0px 100px 0px 0px;
+		}
+		/* Navigation Arrows */
+		div.anythingSlider .arrow {
+			top: 50%;
+			position: absolute;
+			display: block;
+		}
+		div.anythingSlider .arrow a {
+			height: 50px;
+			margin: -50px 0 0 0;
+			width: 50px;
+			background: url('../images/controls_mobo.gif') no-repeat;
+		}
+		div.anythingSlider .back a:hover, div.anythingSlider .back a.hover { background-position: left -50px; }
+		div.anythingSlider .forward a { background-position: right top; }
+		div.anythingSlider .forward a:hover, div.anythingSlider .forward a.hover { background-position: right -50px; }
+		/* CONTENT */
+		#content{
+			min-height:300px;
+		}
+		.singleContent div.anythingSlider{
+			margin: -15px 0px 0px -27px;
+			width: 110px !important;
+			height: 460px !important;
+		}
+		.singleContent div.anythingSlider .anythingWindow {
+			height: 460px;
+		}
+		.singleContent .anythingWindow{
+			margin: 20px 20px 0px -70px;
+			width:218px !important;
+		}
+		.axiomItem{
+			width:240px;
+			margin: 0px 0px 0px -31px !important;
+		}
+		.axiomItem img{
+			height:300px;
+			width:200px;
+			margin:30px 0px 0px 30px !important;
+			padding: 10px 10px 10px 10px !important;
+			background: url('../images/axiomFrame3.gif') no-repeat right bottom !important;
+		}
+		.authorItem .hires img{
+			height:300px;
+			width:200px;
+			margin:30px 0px 0px 30px !important;
+			padding: 10px 10px 10px 10px !important;
+			background: url('../images/axiomFrame3.gif') no-repeat right bottom !important;
+		}
+		.axiomItem .axiomInfo h1{
+		}
+		.axiomInfo{
+			width:250px;
+			float:right;
+			margin: 0px 255px 0px 0px;
+			font-size:12px;
+		}
+		.axiomInfo h1{
+			width:200px;
+			margin: 0px 0px 10px -255px;
+			font-size:15px;
+		}
+		.axiomInfo h5,.axiomInfo h4, .axiomInfo hr, .axiomInfo p, .quoteFlag, .axiomFlag  {
+			display:none;
+		}
+		.panel{
+			width:350px;
+		}
+		#prettyPictures img, #reduceDistance img, #goHiFi img, #dontDesign img, #familiar img{
+			margin: 65px 0px 0px 30px !important;
+		}
+		#designIsNot img, #prototypes img, #disappear img, #everything img, #gantt img{
+			margin: 50px 0px 0px 30px !important;
+		}
+		
+		/* AUTHOR */
+		.authorSingle div.anythingSlider{
+			margin: 0px 0px 0px -11px;
+			width: 110px !important;
+			height: 500px !important;
+		}
+		.authorSingle div.anythingSlider .anythingWindow {
+			height: 460px;
+		}
+		.authorSingle .anythingWindow{
+			margin: 20px 20px 0px -70px;
+			width:218px !important;
+		}
+		.authorItem{
+			width:240px;
+			margin: 0px 0px 0px -32px !important;
+		}
+		.authorItem .authorPortrait{
+			height:300px;
+			width:200px;
+			margin-top:30px !important;
+			padding: 10px 10px 10px 10px !important;
+			background: url('../images/axiomFrame3.gif') no-repeat right bottom !important;
+		}
+		.quotedCards img{
+			height:95px;
+			width:63px;
+			margin: 0px -8px 0px 0px;
+		}
+		
+		/* GRID 4x1 */
+		.gridItem ul li{
+			display:block;
+		}
+		.gridItem ul{
+			width:400px;
+			margin: 0px 0px 0px 35px;
+		}
+		.gridContent{
+			margin: 20px 0px 20px 25px;
+		}
+		/* GRID 4x2 */
+		.slideContent div.anythingSlider{
+			margin: 0px 0px 0px -35px;
+			width: 130px !important;
+			height:680px !important;
+			border: solid red 1px;
+		 }
+		 .slideContent .anythingWindow{
+			margin: 0px 0px 0px -70px;
+			width:238px !important;
+			height:680px !important;
+			border: solid blue 1px;
+		}
+		.slideContent #slider{
+			height:680px;
+		}
+		#slider .gridItem ul li{
+			display:inline;
+		}
+		.gridItem.slide ul {
+			width:300px;
+		}
+		.gridItem.slide{
+			margin: 0px 0px 0px -32px;
+		}
+		.slideContent .slide img{
+			height:150px;
+			width:100px;
+			padding: 5px 9px 9px 5px;
+			border-top:solid 1px #e8e8e8;
+			border-left:solid 1px #e8e8e8;
+		}
+		#missionette{
+			width:250px;
+			margin: 20px 0px 0px 0px;
+		}
+		#contributors{
+			width:250px;
+			margin: 0px 0px 20px 0px;
+		}
+		h1{
+			font-size:22px;
+		}
+		form{
+			width:270px;
+			padding: 30px 0px 0px 0px;
+			margin: 30px 30px 0px -30px;
+		}
+		input[type="submit"]{
+			width: 120px;
+			height:41px;
+			padding: 0px 0px 3px 0px;
+			margin: 0px 0px 0px 152px;
+		}
+		#getInTouch{
+			margin: 10px 0px 30px 0px;
+		}
+    }
+
+
+/* #Mobile (Landscape)
+================================================== */
+
+    /* Note: Design for a width of 480px */
+
+    @media only screen and (min-width: 480px) and (max-width: 767px) {
+		/* MENU */
+		.nav {
+			font-size: 11px;
+			width: 420px;
+			height:10px;
+			background: none;
+			margin: 5px 0px 0px 0px;
+			border-top: solid 2px #4c4c4c;
+			border-bottom:solid 2px #4c4c4c;
+		}
+		ul.nav{
+			margin: 10px 0px 20px 0px;
+			padding: 5px 0px 13px 2px;
+		}
+		.nav li{
+			list-style:none;
+			margin: 0px 4px 0px 4px;
+		}
+		
+		/* HEAD */
+		#head2{
+			height:65px;
+			background:url('../images/header_mobo.png');
+			margin: 0px 0px 0px 145px;
+			width: 337px;
+		}
+		#head{
+			height:70px;
+			margin:10px 0px 0px -92px;
+			width: 337px;
+		}
+		#head2 a{
+			width: 337px;
+		}
+		#buy{
+			background:url('../images/buy_mobo.png');
+			height:53px;
+			width:52px;
+			margin: -45px 0px 0px 95px;
+		}
+		/* VIEWSWITCH */
+		ul#views {
+			margin: 0px 150px 0px 0px;
+		}
+		
+		/* CONTENT */
+		#content{
+			min-height:300px;
+		}
+		.singleContent div.anythingSlider{
+			margin: -15px 0px 0px -17px;
+			width: 215px !important;
+			height: 460px !important;
+		}
+		.singleContent div.anythingSlider .anythingWindow {
+			height: 460px;
+		}
+		.singleContent .anythingWindow{
+			margin: 20px 20px 0px -25px;
+			width:230px !important;
+		}
+		.axiomItem{
+			width:240px;
+			margin: 0px 0px 0px -22px !important;
+		}
+		.axiomItem img{
+			height:300px;
+			width:200px;
+			margin:30px 0px 0px 30px !important;
+			padding: 10px 10px 10px 10px !important;
+			background: url('../images/axiomFrame3.gif') no-repeat right bottom !important;
+		}
+		.authorItem .hires img{
+			height:300px;
+			width:200px;
+			margin:30px 0px 0px 30px !important;
+			padding: 10px 10px 10px 10px !important;
+			background: url('../images/axiomFrame3.gif') no-repeat right bottom !important;
+		}
+		.axiomItem .axiomInfo h1{
+		}
+		.axiomInfo{
+			width:250px;
+			float:right;
+			margin: 0px 255px 0px 0px;
+			font-size:12px;
+		}
+		.axiomInfo h1{
+			width:200px;
+			margin: 0px 0px 10px -255px;
+			font-size:15px;
+		}
+		.axiomInfo h5,.axiomInfo h4, .axiomInfo hr, .axiomInfo p, .quoteFlag, .axiomFlag  {
+			display:none;
+		}
+		.panel{
+			width:350px;
+		}
+		#prettyPictures img, #reduceDistance img, #goHiFi img, #dontDesign img, #familiar img{
+			margin: 65px 0px 0px 30px !important;
+		}
+		#designIsNot img, #prototypes img, #disappear img, #everything img, #gantt img{
+			margin: 50px 0px 0px 30px !important;
+		}
+		
+		/* AUTHOR */
+		.authorSingle div.anythingSlider{
+			margin: 0px 0px 0px -2px;
+			width: 215px !important;
+			height: 500px !important;
+			border: solid red 1px;
+		}
+		.authorSingle div.anythingSlider .anythingWindow {
+			height: 460px;
+		}
+		.authorSingle .anythingWindow{
+			margin: 20px 20px 0px -25px;
+			width:230px !important;
+			border: solid blue 1px;
+		}
+		.authorItem{
+			width:240px;
+			margin: 0px 0px 0px -22px !important;
+		}
+		.authorItem .authorPortrait{
+			height:300px;
+			width:200px;
+			margin-top:30px !important;
+			padding: 10px 10px 10px 10px !important;
+			background: url('../images/axiomFrame3.gif') no-repeat right bottom !important;
+		}
+		.quotedCards img{
+			height:95px;
+			width:63px;
+			margin: 0px -8px 0px 0px;
+		}
+		
+		/* GRID 4x1 */
+		.gridItem ul li{
+			display:inline;
+		}
+		.gridItem ul{
+			width:400px;
+			margin: 0 auto;
+		}
+		.gridContent{
+			margin: 0px 0px 20px 25px;
+		}
+		/* GRID 4x2 */
+		 .slideContent div.anythingSlider{
+			margin: 0px 0px 0px -35px;
+			width: 253px !important;
+			height:780px !important;
+		 }
+		 .slideContent .anythingWindow{
+			margin: -25px 0px 0px -25px;
+			width:270px !important;
+			height:780px !important;
+			border: solid blue 1px;
+		}
+		.slideContent #slider{
+			height:780px;
+		}
+		#slider .gridItem ul li{
+			display:inline;
+		}
+		.gridItem.slide ul {
+			width:300px;
+		}
+		.gridItem.slide{
+			margin: 0px 0px 0px -245px;
+		}
+		.slideContent .slide img{
+			height:173px;
+			width:115px;
+			padding: 5px 9px 9px 5px;
+			border-top:solid 1px #e8e8e8;
+			border-left:solid 1px #e8e8e8;
+		}
+		#missionette{
+			width:350px;
+			margin: 0px 0px 0px 0px;
+		}
+		#contributors{
+			width:250px;
+			margin: 0px 0px 20px 0px;
+		}
+		h1{
+			font-size:22px;
+		}
+		form{
+			width:390px;
+			padding: 0px 0px 0px 0px;
+			margin: 0px 30px 0px 0px;
+		}
+		input[type="submit"]{
+			width: 120px;
+			height:41px;
+			padding: 0px 0px 3px 0px;
+			margin: 0px 0px 0px 270px;
+		}
+		#getInTouch{
+			margin: 0px 0px 30px 0px;
+		}
+    }

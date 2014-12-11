@@ -1,0 +1,283 @@
+<cards>
+	<card type="axiom">
+		<image new="no">./assets/images/cards/axiom_whatInterface.jpg</image>
+		<hiRes>./assets/images/hiRes/axiom_whatInterface.jpg</hiRes>
+		<thumb url="./axioms.php">./assets/images/thumbs/axiom_whatInterface.jpg</thumb>
+		<title id="whatInterface">What Interface?</title>
+		<subtitle></subtitle>
+		<description>
+							&lt;p&gt;The best interface is not just beautiful. It is not only elegant and usable and innovative. The best interface is invisible.&lt;/p&gt;
+							&lt;p&gt;The ultimate interface is integrated, or subsumed, or invisible. It is designed away. The user interface is a direct path between the users and what they want to do with your product. That should be your goal.&lt;/p&gt;
+							&lt;p&gt;Build as minimal an interface as possible to suit your users. Put the beauty, usefulness, and usability into the actual data experience.&lt;/p&gt;
+		</description>
+	</card>
+	<card type="axiom">
+		<image new="no">./assets/images/cards/axiom_letDataScream.jpg</image>
+		<hiRes>./assets/images/hiRes/axiom_letDataScream.jpg</hiRes>
+		<thumb url="./axioms.php">./assets/images/thumbs/axiom_letDataScream.jpg</thumb>
+		<title id="letDataScream">Let Data Scream</title>
+		<subtitle></subtitle>
+		<description>
+							&lt;p&gt;People want data: pictures, graphics, drawings, visualizations, words, numbers, and sounds&#8212;they are all data. The reason people use software is to get the data they want, in the right way, with as little delay or distraction as possible.&lt;/p&gt;
+							&lt;p&gt;Your mission is to understand the data, be the data, and figure out how to make that data not just be, but to scream.&lt;/p&gt;
+		</description>
+	</card>
+	<card type="axiom">
+		<image new="no">./assets/images/cards/axiom_knowThyCode.jpg</image>
+		<hiRes>./assets/images/hiRes/axiom_knowThyCode.jpg</hiRes>
+		<thumb url="./axioms.php">./assets/images/thumbs/axiom_knowThyCode.jpg</thumb>
+		<title id="knowThyCode">Know Thy Code</title>
+		<subtitle></subtitle>
+		<description>
+							&lt;p&gt;An industrial designer who isn't deeply knowledgeable about metals and polymers is currently unemployed.&lt;/p&gt;
+							&lt;p&gt;To be a great designer, you must have intimate knowledge of your construction materials. If you want to design software interfaces, you've gotta know a lot about the code.&lt;/p&gt;
+		</description>
+	</card>
+	<card type="axiom">
+		<image new="no">./assets/images/cards/axiom_prototypeLikeCrazy.jpg</image>
+		<hiRes>./assets/images/hiRes/axiom_prototypeLikeCrazy.jpg</hiRes>
+		<thumb url="./axioms.php">./assets/images/thumbs/axiom_prototypeLikeCrazy.jpg</thumb>
+		<title id="prototypeLikeCrazy">Prototype Like Crazy</title>
+		<subtitle></subtitle>
+		<description>
+							&lt;p&gt;It is impossible to evaluate design ideas properly without a prototype that approximately conveys the final functional form factor.&lt;/p&gt;
+							&lt;p&gt;For industrial designers, that means creating objects with the correct form factor using materials as close as possible to the final envisioned product.&lt;/p&gt;
+							&lt;p&gt;In software, that means creating with code. Code early, code often, and test and evaluate through a working prototype. There is no better way.&lt;/p&gt;
+		</description>
+	</card>
+	<card type="axiom">
+		<image new="no">./assets/images/cards/axiom_allAxioms.jpg</image>
+		<hiRes>./assets/images/hiRes/axiom_allAxioms.jpg</hiRes>
+		<thumb url="./axioms.php">./assets/images/thumbs/axiom_allAxioms.jpg</thumb>
+		<title id="designAxioms">Design Axioms</title>
+		<subtitle></subtitle>
+		<description>
+							&lt;ul&gt;
+								&lt;li&gt; Let Data Scream &lt;/li&gt;
+								&lt;li&gt; Reality Bites &lt;/li&gt;
+								&lt;li&gt; Prototype Like Crazy &lt;/li&gt;
+								&lt;li&gt; Pixel Perfect &lt;/li&gt;
+								&lt;li&gt; Bitch! Loud and Often &lt;/li&gt;
+								&lt;li&gt; Eat Your Own Dog Food &lt;/li&gt;
+								&lt;li&gt; Stop Seeking Others' Approval &lt;/li&gt;
+								&lt;li&gt; Date Your Users &lt;/li&gt;
+								&lt;li&gt; Grid It &lt;/li&gt;
+								&lt;li&gt; Type Less and Less Type &lt;/li&gt;
+								&lt;li&gt; Color Carefully &lt;/li&gt;
+								&lt;li&gt; Know Thy Code &lt;/li&gt;
+								&lt;li&gt; Lust to Dust &lt;/li&gt;
+								&lt;li&gt; What Interface? &lt;/li&gt;
+								&lt;li&gt; Repeat Customers Rock &lt;/li&gt;
+								&lt;li&gt; Deja Vu All Over Again &lt;/li&gt;
+								&lt;li&gt; Get Physical &lt;/li&gt;
+							&lt;/ul&gt;
+		</description>
+	</card>
+	
+	<card type="quote">
+		<image new="no">./assets/images/cards/quote_forgetThePrettyPictures.jpg</image>
+		<hiRes>./assets/images/hiRes/quote_forgetPrettyPictures.jpg</hiRes>
+		<thumb url="./quotes.php">./assets/images/thumbs/quote_forgetThePrettyPictures.jpg</thumb>
+		<title id="prettyPictures">Forget the Pretty Pictures, Help People Do What They Want</title>
+		<subtitle href="./authors.php#dirk">Quote by Dirk Knemeyer</subtitle>
+		<description>
+							&lt;p&gt;Great design should be appropriately beautiful. Yet, too often, designers let their fascination with beauty undermine great design.&lt;/p&gt;
+							&lt;p&gt;Ultimately design is about creating something for use. Beauty is part of the equation but usability and usefulness are even more important.&lt;/p&gt;
+		</description>
+	</card>
+	<card type="quote">
+		<image new="no">./assets/images/cards/quote_designIsNot.jpg</image>
+		<hiRes>./assets/images/hiRes/quote_designIsNotTheoretical.jpg</hiRes>
+		<thumb url="./quotes.php">./assets/images/thumbs/quote_designIsNot.jpg</thumb>
+		<title id="designIsNot">Design is Not a Theoretical Excercise</title>
+		<subtitle href="./authors.php#andrei">Quote by Andrei Herasimchuk</subtitle>
+		<description>
+							&lt;p&gt;Too often, software designers get mired in unrealistic representations such as wireframes, paper prototypes, and even pixel-perfect screen prints.&lt;/p&gt;
+							&lt;p&gt;Software is a kinetic, interactive media, and the only way to design for it properly is to go from theoretical design artifacts to real, working prototypes as quickly as possible.&lt;/p&gt;
+		</description>
+	</card>
+	<card type="quote">
+		<image new="no">./assets/images/cards/quote_reduceDistance.jpg</image>
+		<hiRes>./assets/images/hiRes/quote_reduceDistance.jpg</hiRes>
+		<thumb url="./quotes.php">./assets/images/thumbs/quote_reduceDistance.jpg</thumb>
+		<title id="reduceDistance">Reduce the Distance Between Users and Content</title>
+		<subtitle href="./authors.php#luke">Quote by Luke Wroblewski</subtitle>
+		<description>
+							&lt;p&gt;The primary expectation most users must have for their digital experiences is getting at the content.&lt;/p&gt;
+							&lt;p&gt;That is why they&#39;ve come, and it is why they stay. It is far too easy to put clutter like movies, ads, and candy between the users and the content they thirst for.&lt;/p&gt;
+							&lt;p&gt;All of those things have a time and a place, but, when in doubt, always minimize the time to act&#8212;clicks, screens, windows, steps, and other interface mechanics&#8212;to reduce the distance between users and content.&lt;/p&gt;
+		</description>
+	</card>
+	<card type="quote">
+		<image new="no">./assets/images/cards/quote_realDataIsTruth.jpg</image>
+		<hiRes>./assets/images/hiRes/quote_realDataIsTruth.jpg</hiRes>
+		<thumb url="./quotes.php">./assets/images/thumbs/quote_realDataIsTruth.jpg</thumb>
+		<title id="realData">Real Data is Truth</title>
+		<subtitle href="./authors.php#juhan">Quote by Juhan Sonin</subtitle>
+		<description>
+							&lt;p&gt;Shortcuts make design more efficient. Sometimes, they also make it worse.&lt;/p&gt;
+							&lt;p&gt;Injecting Lorem Ipsum and other dummy data into design during the creation process sucks. Dummy data leads to dummy design.&lt;/p&gt;
+							&lt;p&gt;As a designer, you must get your mitts on real data early in the creation cycle. Data will alter your design brain.&lt;/p&gt;
+							&lt;p&gt;Great design surfaces Truth, and real data is Truth.&lt;/p&gt;
+		</description>
+	</card>
+	<card type="quote">
+		<image new="no">./assets/images/cards/quote_prototypesArentEnds.jpg</image>
+		<hiRes>./assets/images/hiRes/quote_prototypesArentEnds.jpg</hiRes>
+		<thumb url="./quotes.php">./assets/images/thumbs/quote_prototypesArentEnds.jpg</thumb>
+		<title id="prototypes">Prototypes Aren't The End, They're the Means</title>
+		<subtitle href="./authors.php#knemeyer">Quote by Dirk Knemeyer</subtitle>
+		<description>
+							&lt;p&gt;The first generation of digital designers got comfortable with their paper prototypes and static mock-ups. Code meant production; protoype meant we&#39;re almost done.&lt;/p&gt;
+							&lt;p&gt;The reality is, prototypes are where it starts. You can't evaluate, much less test, software properly until it is behaving in the same environment and context as it will eventually live in.&lt;/p&gt;
+							&lt;p&gt;Industrial designers get this. Graphic designers get this. So should you.&lt;/p&gt;
+		</description>
+	</card>
+	<card type="quote">
+		<image new="no">./assets/images/cards/quote_makeThings.jpg</image>
+		<hiRes>./assets/images/hiRes/quote_makeThings.jpg</hiRes>
+		<thumb url="./quotes.php">./assets/images/thumbs/quote_makeThings.jpg</thumb>
+		<title id="makeThings">Make Things</title>
+		<subtitle href="./authors.php#luke">Quote by Luke Wroblewski</subtitle>
+		<description>
+							&lt;p&gt;It really is just that simple: if you are a designer, you need to always be making things. As soon as the idea flits into your head, the pencil or marker or stylus should be in your hand.&lt;/p&gt;
+							&lt;p&gt;Designers make. Makers ship. Shippers change the world. Always, always be making.&lt;/p&gt;
+							&lt;p&gt;Buy more clay. Use more foam board. Break more LEGOs.&lt;/p&gt;
+		</description>
+	</card>
+	<card type="quote">
+		<image new="no">./assets/images/cards/quote_letInkUiLinesDisappear.jpg</image>
+		<hiRes>./assets/images/hiRes/quote_letInkUiLinesDisappear.jpg</hiRes>
+		<thumb url="./quotes.php">./assets/images/thumbs/quote_letInkUiLinesDisappear.jpg</thumb>
+		<title id="disappear">Let the Ink, UI, and Lines Disappear</title>
+		<subtitle href="./authors.php#juhan">Quote by Juhan Sonin</subtitle>
+		<description>
+							&lt;p&gt;Most of the time in interface design, less is more. Achieving it can be a very Zen-like process.&lt;/p&gt;
+							&lt;p&gt;Clear your mind of your vision for the user interface. Close your eyes. Re-imagine solving the problems required by the interface as if you were contrained to having no UI at all.&lt;/p&gt;
+		</description>
+	</card>
+	<card type="quote">
+		<image new="no">./assets/images/cards/quote_ifEverythingIsImportant.jpg</image>
+		<hiRes>./assets/images/hiRes/quote_ifEverythingIsImportant.jpg</hiRes>
+		<thumb url="./quotes.php">./assets/images/thumbs/quote_ifEverythingIsImportant.jpg</thumb>
+		<title id="everything">If Everything is Important, Nothing is Important</title>
+		<subtitle href="./authors.php#andrei">Quote by Andrei Herasimchuk</subtitle>
+		<description>
+							&lt;p&gt;Trying to make every single thing attention-grabbing is a classic design mistake.&lt;/p&gt;
+							&lt;p&gt;What you consider most important should&#8212;certainly, clearly, undeniably&#8212;be the single most important aspect of your design.&lt;/p&gt;
+		</description>
+	</card>
+	<card type="quote">
+		<image new="no">./assets/images/cards/quote_goHighFidelity.jpg</image>
+		<hiRes>./assets/images/hiRes/quote_goHighFidelity.jpg</hiRes>
+		<thumb url="./quotes.php">./assets/images/thumbs/quote_goHighFidelity.jpg</thumb>
+		<title  id="hiFi">Go as High Fidelity with Real Data as Fast as Possible</title>
+		<subtitle href="./authors.php#luke">Quote by Luke Wroblewski</subtitle>
+		<description>
+							&lt;p&gt;Telling a good story requires craft and attention.&lt;/p&gt;
+							&lt;p&gt;Data is the story in applications, so making it as rich as possible as early as possible will radiate through the entire design, elevating your product.&lt;/p&gt;
+		</description>
+	</card>
+	<card type="quote">
+		<image new="no">./assets/images/cards/quote_ganttChartsIllusionofManagement.jpg</image>
+		<hiRes>./assets/images/hiRes/quote_ganttChartsIllusionofManagement.jpg</hiRes>
+		<thumb url="./quotes.php">./assets/images/thumbs/quote_ganttChartsIllusionofManagement.jpg</thumb>
+		<title id="gantt">Gantt Charts are the Illusion of Management</title>
+		<subtitle href="./authors.php#juhan">Quote by Juhan Sonin</subtitle>
+		<description>
+							&lt;p&gt;Project management is not about documents and process that appear orderly and require attention. Project management is about focusing on the product.&lt;/p&gt;
+							&lt;p&gt;Communications, communications, and communcations make the best project management. A straightforward to-do list trumps fancy depedency graphs any day. Have the whole team focused on evolving prototype.&lt;/p&gt;
+							&lt;p&gt;Talk about the prototype. Critique the prototype. Use the prototype. Have others bang on the prototype. Sleep with the prototype.&lt;/p&gt;
+		</description>
+	</card>
+	<card type="quote">
+		<image new="no">./assets/images/cards/quote_dontDesign.jpg</image>
+		<hiRes>./assets/images/hiRes/quote_dontDesign.jpg</hiRes>
+		<thumb url="./quotes.php">./assets/images/thumbs/quote_dontDesign.jpg</thumb>
+		<title id="dontDesign">Don't Design It If You Don't Know How It's Going to Be Built</title>
+		<subtitle href="./authors.php#andrei">Quote by Andrei Herasimchuk</subtitle>
+		<description>
+							&lt;p&gt;For many designers, the details, nooks, and crannies of truly taking a design to &#34;done&#34; are the hardest part of the process.&lt;/p&gt;
+							&lt;p&gt;Great design requires the focus, commitment, and attention to detail inherent in any craft. That means sticking with your design through every agonizing moment, ensuring the design integrity of your vision lives on in the product.&lt;/p&gt;
+		</description>
+	</card>
+	<card type="quote">
+		<image new="no">./assets/images/hiRes/quote_beFamiliarwithCode.jpg</image>
+		<hiRes>./assets/images/hiRes/quote_beFamiliarwithCode.jpg</hiRes>
+		<thumb url="./quotes.php">./assets/images/thumbs/quote_beFamiliarwithCode.jpg</thumb>
+		<title id="familiar">You Should Be as Familiar with Code as Design</title>
+		<subtitle href="./authors.php#dirk">Quote by Dirk Knemeyer</subtitle>
+		<description>
+							&lt;p&gt;Design skills and tools are important. After all, you can't design well without them.&lt;/p&gt;
+							&lt;p&gt;However, you also can&#39;t design well without understanding how and what you make will be manifested. In interface design, that means code.&lt;/p&gt;
+							&lt;p&gt;You may not like to code; you may not want to code. But if you don&#39;t invest the time to educate yourself in code to a similar degree as you were educated in design, you will not realize your potential.&lt;/p&gt;
+		</description>
+	</card>
+	
+	<card type="author">
+		<image new="no">./assets/images/cards/author_andreiHerasimchuk.jpg</image>
+		<hiRes>./assets/images/hiRes/author_andreiHerasimchuk.jpg</hiRes>
+		<thumb url="./authors.php">./assets/images/thumbs/author_andreiHerasimchuk.jpg</thumb>
+		<title id="andrei">Andrei Herasimchuk</title>
+		<subtitle>Special Abilities: System Engineering, Pixel Perfection, Rebellion Against Orthodoxy</subtitle>
+		<description>
+							&lt;p&gt;An iconoclast who is infamous for publicly disagreeing with the interaction design establishment&#8212;only to later be vindicated as popular opinion caught up with his prophetic vision&#8212;Andrei dropped out of college to start a software company and has been a professional designer ever since.&lt;/p&gt;
+							&lt;p&gt;He was the first designer hired at Adobe; he single-handedly designed the original Creative Suite, forged disparate design ideas into one vision, and built the company&#39;s design team. Andrei has also started successful software and design companies of his own and been a lead designer at Twitter and Yahoo.&lt;/p&gt;
+							&lt;p&gt;Many of the top designers in Silicon Valley are from the Herasimchuk design tree.&lt;/p&gt;
+		</description>
+		<authorQuotes>
+			<quoted url="./quotes.php#designIsNot" title="Design is not Theoretical">./assets/images/thumbs/quote_designIsNot.jpg</quoted>
+			<quoted url="./quotes.php#everything" title="Nothing is Important if Everything is Important">./assets/images/thumbs/quote_ifEverythingIsImportant.jpg</quoted>
+			<quoted url="./quotes.php#dontDesign" title="Don't Design It">./assets/images/thumbs/quote_dontDesign.jpg</quoted>
+		</authorQuotes>
+	</card>
+	<card type="author">
+		<image new="no">./assets/images/cards/author_lukeWroblewski.jpg</image>
+		<hiRes>./assets/images/hiRes/author_lukeWroblewski.jpg</hiRes>
+		<thumb url="./authors.php">./assets/images/thumbs/author_lukeWroblewski.jpg</thumb>
+		<title id="luke">Luke Wroblewski</title>
+		<subtitle>Special Abilities: System Engineering, Design + Business Product Strategy</subtitle>
+		<description>
+							&lt;p&gt;A  beloved personality in the interaction design community, Luke combines incredible design talent and insatiable curiosity about everything related to software with a natural generosity and desire to share his learning with others.&lt;/p&gt;
+							&lt;p&gt;A designer by training, which includes a master's degree in interface design with coursework in computer science, Luke started his career at the National Center for Supercomputing Applications (NCSA). He became a lead designer at eBay, a VP at Yahoo, and an entrepreneur-in-residence at Benchmark Capital. He then founded his own consumer Internet start-up, Bagcheck, which was acquired by Twitter. Luke is one of the most prolific speakers and authors in the design industry.&lt;/p&gt;
+		</description>
+		<authorQuotes>
+			<quoted url="./quotes.php#reduce" title="Reduce the Distance">./assets/images/thumbs/quote_reduceDistance.jpg</quoted>
+			<quoted url="./quotes.php#makeThings" title="Make Things">./assets/images/thumbs/quote_makeThings.jpg</quoted>
+			<quoted url="./quotes.php#hiFi" title="Go High Fidelity">./assets/images/thumbs/quote_goHighFidelity.jpg</quoted>
+		</authorQuotes>
+	</card>
+	<card type="author">
+		<image new="no">./assets/images/cards/author_juhanSonin.jpg</image>
+		<hiRes>./assets/images/hiRes/author_juhanSonin.jpg</hiRes>
+		<thumb url="./authors.php">./assets/images/thumbs/author_juhanSonin.jpg</thumb>
+		<title id="juhan">Juhan Sonin</title>
+		<subtitle>Special Abilities: System Engineering, Future Thinking, Truth + Transparency</subtitle>
+		<description>
+							&lt;p&gt;A cluster of contradictions, Juhan combines design skill and craft with teaching and mentoring that inspires loyalty from his team, with an eye on the future.&lt;/p&gt;
+							&lt;p&gt;Trained as an artist and engineer, Juhan began his design career at Apple in 1994. He has owned his own software design companies and worked inside large corporations and organizations, including the National Center for Supercomputing Applications (NCSA) and the United States Department of Defense (DoD). Juhan is also a lecturer on design and engineering at the Massachusetts Institute of Technology (MIT) where he drills students to deliver working prototypes.&lt;/p&gt;
+		</description>
+		<authorQuotes>
+			<quoted url="./quotes.php#realData">./assets/images/thumbs/quote_realDataIsTruth.jpg</quoted>
+			<quoted url="./quotes.php#disappear">./assets/images/thumbs/quote_letInkUiLinesDisappear.jpg</quoted>
+			<quoted url="./quotes.php#gantt">./assets/images/thumbs/quote_ganttChartsIllusionofManagement.jpg</quoted>
+		</authorQuotes>
+	</card>
+	<card type="author">
+		<image new="no">./assets/images/cards/author_dirkKnemeyer.jpg</image>
+		<hiRes>./assets/images/hiRes/author_dirkKnemeyer.jpg</hiRes>
+		<thumb url="./authors.php">./assets/images/thumbs/author_dirkKnemeyer.jpg</thumb>
+		<title id="dirk">Dirk Knemeyer</title>
+		<subtitle>Special Abilities: System Engineering, Big Ideas, Risk Taking</subtitle>
+		<description>
+							&lt;p&gt;Trained in the liberal arts with a master's degree in popular culture. Dirk has contributed to or provided the creative direction of award-winning design in every form of communication media. He instinctively understands how people respond and behave, and combines that with a razor-sharp eye to shepherd designs that are creatively inspired and strategically precise.&lt;/p&gt;
+							&lt;p&gt;With turns as an academic, ad executive, management consultant, design executive, and entrepreneur, Dirk naturally rises to leadership positions and has published over 100 articles, given more than 50 conference speeches, and participated on 13 different boards for commercial and non-profit corporations.&lt;/p&gt;
+		</description>
+		<authorQuotes>
+			<quoted url="./quotes.php#prettyPictures">./assets/images/thumbs/quote_forgetThePrettyPictures.jpg</quoted>
+			<quoted url="./quotes.php#prototypesArent">./assets/images/thumbs/quote_prototypesArentEnds.jpg</quoted>
+			<quoted url="./quotes.php#familiar">./assets/images/thumbs/quote_beFamiliarwithCode.jpg</quoted>
+		</authorQuotes>
+	</card>
+	
+</cards>
