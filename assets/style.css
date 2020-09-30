@@ -1,17 +1,20 @@
 body{
 	background-color:#ffffff;
 	font-size:.8em;
+/* 	i think using rem for better understanding in css. because beginners always check your code and copy as it  */
 	font-family: 'Droid Sans',  Helvetica, Arial, sans serif;
 }
 
 a{
 	text-decoration:none;
 	color:#ca5151;
+/*  this color rgba code( 202	81	81 ) and change hover color for using rgba value  */
 }
 
 a:hover{
 	text-decoration:none;
 	color:#ca5151;
+/* 	i think hover when hover a link color will show ( 202	81	81	0.5	 ) for best design*/
 }
 
 h1{
